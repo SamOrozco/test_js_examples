@@ -3,5 +3,4 @@
 
 
 // testing 4
-var code = 200;
-var def = true;
+var def = statusCode == 201;
